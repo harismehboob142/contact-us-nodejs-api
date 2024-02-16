@@ -1,0 +1,28 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "contact-us",
+    "dateExported": "2024-01-02T11:44:03.400Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "5d7068c5-a832-4aff-a170-c588a4af1491",
+            "colId": "a8d73de1-a6ec-41fd-a790-7a729dbb4d2d",
+            "containerId": "",
+            "name": "contact-us",
+            "url": "https://contactus-service.vercel.app/contact-us",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-01-02T11:09:01.441Z",
+            "modified": "2024-01-02T11:35:28.317Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\":\"haris\",\n  \"subject\":\"testing subject\",\n  \"email\":\"harismehboob2019@gmail.com\",\n  \"message\":\"hello this is a test message\"\n  \n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}
